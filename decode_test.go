@@ -16,7 +16,7 @@ import (
 
 	"github.com/goccy/go-yaml"
 	"github.com/goccy/go-yaml/ast"
-	"github.com/goccy/go-yaml/internal/errors"
+	"github.com/scriptory/go-yaml/internal/errors"
 	"github.com/goccy/go-yaml/parser"
 )
 

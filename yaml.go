@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/goccy/go-yaml/ast"
-	"github.com/goccy/go-yaml/internal/errors"
+	"github.com/scriptory/go-yaml/internal/errors"
 )
 
 // BytesMarshaler interface may be implemented by types to customize their
